@@ -21,8 +21,8 @@ const ContactForm = () => {
     <ContactWrapper as={SmallerContainer}>
       <Text theme={theme}>
         Feel free to email me via{' '}
-        <a href="mailto:hello@smakosh.com" target="_top">
-          hello@smakosh.com
+        <a href="mailto:hello@dev.meralus.com" target="_top">
+          hello@dev.meralus.com
         </a>
       </Text>
       <Text as="p" theme={theme}>
@@ -52,7 +52,7 @@ const ContactForm = () => {
               method: 'POST',
               url:
                 process.env.NODE_ENV !== 'development'
-                  ? `https://smakosh.com/api/contact`
+                  ? `https://dev.meralus.com/api/contact`
                   : 'http://localhost:3000/api/contact',
               headers: {
                 'Content-Type': 'application/json',

@@ -24,7 +24,7 @@ So as usual, I'll cover things that I have managed to learn, create & earn but I
 
 This year started for me in late December when I was working a normal well paying job in a city known as Casablanca here in Morocco, though the workload wasn't heavy, my skills weren't been used the right way and as a result I wasn't learning anything new on that job except few soft skills like mentoring new members, talking face to face with clients & I got to know few stuff related to business.
 
-So I decided to accept an offer as a remote JAM Stack developer for a NYC startup as a part time job from which I learned a lot actually, though I understood the JAM stack well but I was heavily using Gatsby js rather than alternatives which weren't that many nor as good as Gatsby when it comes to statically generate pages at that time, so I had to pick up & learn Next js the canary version at that time which added support to SSG & provided a new API for SSR as well, along with [ISR](http://2020.wth-isg.talks.smakosh.com/).
+So I decided to accept an offer as a remote JAM Stack developer for a NYC startup as a part time job from which I learned a lot actually, though I understood the JAM stack well but I was heavily using Gatsby js rather than alternatives which weren't that many nor as good as Gatsby when it comes to statically generate pages at that time, so I had to pick up & learn Next js the canary version at that time which added support to SSG & provided a new API for SSR as well, along with [ISR](http://2020.wth-isg.talks.dev.meralus.com/).
 
 My task was to build a statically generated Ecommerce website with i18n and multi currency support and does include the checkout step as well while the content is managed from a headless CMS.
 
@@ -36,7 +36,7 @@ That was the moment I come up with the idea of building [Ontwik](https://ontwik-
 
 > The small fee covers the work we do to filter good developers based on our previous work experience with them and a personal & technical interview which doesn't include leetcode along with the servers cost and our design and engineering work.
 
-And this is why I couldn't publish any articles thus far. But I did give more talks this year than the previous one & one of the best ones was done remotely for the first edition of an [amazing conference](http://blablaconf.com/?utm_source=smakosh), though it was in my locale language, I would recommend checking out [the slides](http://2020.wth-isg.talks.smakosh.com/). as they are in English.
+And this is why I couldn't publish any articles thus far. But I did give more talks this year than the previous one & one of the best ones was done remotely for the first edition of an [amazing conference](http://blablaconf.com/?utm_source=smakosh), though it was in my locale language, I would recommend checking out [the slides](http://2020.wth-isg.talks.dev.meralus.com/). as they are in English.
 
 Early in March, the startup decided to invite me to NYC to meet the whole team including investors & the board as I got an offer to work for them full time, as I passed through the airport checking, I checked my phone to notice that everything was canceled & I was asked not to come though I wasn't able to retrieve my luggages nor cancel my flight. As a result I had to spend 1 night in a hotel nearby the airport & come back the next day. I'm grateful that everything was covered by the startup.
 

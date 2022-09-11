@@ -27,7 +27,7 @@ export default () => {
         </a>
         Open sourced on
         <a
-          href="https://github.com/smakosh/smakosh.com"
+          href="https://github.com/smakosh/dev.meralus.com"
           rel="noopener noreferrer"
           target="_blank"
         >

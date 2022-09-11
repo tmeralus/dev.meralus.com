@@ -95,9 +95,9 @@ Here's a summary of things I learned, created, earned and shared.
 - Worked on [Dopewars](https://dopewars.gg/), my contributions are visible since it's an open sourced project
 - Built [LinksDAO](https://linksdao.io/) SXSW event registration
 - Continued work on [Ontwik Beta](https://ontwik-dev.com)
-- Built [Mintify](http://mintify.smakosh.com/), it's open source too.
+- Built [Mintify](http://mintify.dev.meralus.com/), it's open source too.
 - Built [React hot pagination](https://github.com/smakosh/react-hot-pagination)
-- Started work on [Ontwik UI](https://ontwik-ui.smakosh.com/)
+- Started work on [Ontwik UI](https://ontwik-ui.dev.meralus.com/)
 - Started work on my [new portfolio](https://new-portfolio-inky-nine.vercel.app/)
 - [Next js boilerplates](https://github.com/smakosh?tab=repositories&q=next&type=&language=&sort=)
 

@@ -28,7 +28,7 @@ While travelling to Rabat in order to visit the Moroccan office of [Obytes](http
 - Communications solutions
 - Financial solutions
 
-The hackathon's organizers covered all our expenses including the flight (economy class at [Saudi airlines](https://www.saudia.com/?ref=https://smakosh.com)), it was so nice as they provided an awesome service, the hotel stay was also covered and each group was staying at different hotels, I was staying at Hotel [Salsabil](https://warwickhotels.com/salsabil/)).
+The hackathon's organizers covered all our expenses including the flight (economy class at [Saudi airlines](https://www.saudia.com/?ref=https://dev.meralus.com)), it was so nice as they provided an awesome service, the hotel stay was also covered and each group was staying at different hotels, I was staying at Hotel [Salsabil](https://warwickhotels.com/salsabil/)).
 
 I started coding a boilerplate rest api as soon as I got into the plane, I used express js, mongoose, mongodb, postman and I was working offline, I set up my models (user, post) and an authenticated middleware so not everyone could access some private routes, I forgot to add another middleware so only admin user can send requests to some post routes.
 

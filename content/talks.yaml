@@ -22,7 +22,7 @@
     - link: https://github.com/smakosh/gatsby-app-starter-rest-api
 - title: Introducing Gatsby, — The modern web framework for building blazing fast websites and apps.
   summary: In this talk, I re-introduced Gatsby as a modern web framework for building blazing fast websites and apps, answered the "what? why and how?" questions with a demo at the end of a static website consuming data from a single YAML file and deployed to ZEIT now in less than 10s.
-  slides: https://zeit-gatsby-talk.smakosh.com/
+  slides: https://zeit-gatsby-talk.dev.meralus.com/
   date: 2019-12-17T10:38:01.889Z
   thumbnail: "./assets/talks/zeit-gatsby-talk.jpeg"
   watch: https://youtu.be/nXRmOrN7m9o?t=1465
@@ -30,12 +30,12 @@
     - link: https://github.com/smakosh/saham-events-demo
 - title: The evolution of grid systems on the web
   summary: talked about CSS Grid systems, the reason we need them, life before/after CSS and the clearfix hack, flexBox and CSS Grid
-  slides: https://2020.css-grids-talk.talks.smakosh.com/
+  slides: https://2020.css-grids-talk.talks.dev.meralus.com/
   date: 2020-02-27T10:38:01.889Z
   thumbnail: "./assets/talks/grid-systems-talk.jpeg"
 - title: Build a blog with Contentful and Gatsby
   summary: talked about headless CMS, why it's better than traditional CMS, micro introduction to Gatsby, what's the JAMStack...
-  slides: https://2020.headless-cms.talks.smakosh.com/
+  slides: https://2020.headless-cms.talks.dev.meralus.com/
   date: 2020-02-29T10:38:01.889Z
   thumbnail: "./assets/talks/rabatjs-talk.jpeg"
   demos:
@@ -49,7 +49,7 @@
     - link: https://github.com/smakosh/wtm-blog
 - title: WTH is static site regeneration
   summary: Quick explanation of Icremental Static Regeneration using Next js, I explained the difference between SSG vs SSR vs CSR vs ISR, gave an introduction about Next js, I went through Next's 3 API functions one by one and showed a demo of Ontwik.dev and how are we using ISR for listing approved developers and their profiles.
-  slides: http://2020.wth-isg.talks.smakosh.com/
+  slides: http://2020.wth-isg.talks.dev.meralus.com/
   date: 2020-10-22T10:38:01.889Z
   thumbnail: "./assets/talks/blablaconf.jpeg"
   watch: https://youtu.be/p7yLbnxGvlw
@@ -57,7 +57,7 @@
     - link: https://github.com/smakosh/blablaconf-talk-2020
 - title: Learn to implement authentication cheaply and securely
   summary: An online workshop on which I shared my knowledge about the different approaches to implement authentication, the pros and cons of each with a demo at the end implementing session http only cookie authentication using the hype beast.
-  slides: https://2021.custom-auth.talks.smakosh.com
+  slides: https://2021.custom-auth.talks.dev.meralus.com
   date: 2021-03-31T10:38:01.889Z
   thumbnail: "./assets/talks/open-source-days-talks.jpeg"
   watch: https://www.facebook.com/Opensdays/videos/158209136082880/?story_fbid=158209136082880&id=1381978402047509

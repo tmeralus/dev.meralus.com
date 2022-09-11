@@ -22,7 +22,7 @@ hashtags themselves have no issues so far but the way few users use them, whethe
 
 The same goes when you're trying to read someone's post's description but it's full of hashtags they overused, that's why it's better to have some line breaks or put them as the first comment.
 
-the overusing of hashtags issue has been solved by few platforms, by warning the user and eventually banning them, unlike the issue of using unrelated hashtags, it hasn't been solved yet, that's why I built [Ai Hashtags](https://ai-hashtags.com/?ref=smakosh.com) in order to solve it!
+the overusing of hashtags issue has been solved by few platforms, by warning the user and eventually banning them, unlike the issue of using unrelated hashtags, it hasn't been solved yet, that's why I built [Ai Hashtags](https://ai-hashtags.com/?ref=dev.meralus.com) in order to solve it!
 
 Ai Hashtags generates hashtags using Artificial intelligence, and here's how it works:
 
@@ -66,4 +66,4 @@ This was a fun project to work on and the reason I built it goes way back when I
   - i18n: react-intl
   - Analytics: react-native-mixpanel
 
-Feel free to download Ai Hashtags and leave your feedback on the app or down in the comments: [Download Ai Hashtags](https://ai-hashtags.com/?ref=smakosh.com)
+Feel free to download Ai Hashtags and leave your feedback on the app or down in the comments: [Download Ai Hashtags](https://ai-hashtags.com/?ref=dev.meralus.com)

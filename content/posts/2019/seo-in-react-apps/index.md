@@ -86,7 +86,7 @@ const structuredDataArticle = `{
 		},
 		"headline": "${description}",
 		"image": "${
-      cover ? `https://smakosh.com${cover}` : `https://smakosh.com${Thumbnail}`
+      cover ? `https://dev.meralus.com${cover}` : `https://dev.meralus.com${Thumbnail}`
     }",
 		"datePublished": "${datePublished}",
 		"dateModified": "${dateModified}",
@@ -104,7 +104,7 @@ const structuredDataArticle = `{
 			}
 		},
 		"description": "${description}",
-		"url": "${url}${location}/?ref=smakosh.com"
+		"url": "${url}${location}/?ref=dev.meralus.com"
   }`
 ```
 
@@ -159,7 +159,7 @@ const structuredDataOrganization = `{
       />
 
       {/* Opengraph meta tags for Facebook & LinkedIn */}
-      <meta property="og:url" content={`${url}${location}/?ref=smakosh.com`} />
+      <meta property="og:url" content={`${url}${location}/?ref=dev.meralus.com`} />
       <meta
         property="og:type"
         content={type === 'NewsArticle' ? 'NewsArticle' : 'website'}
@@ -251,7 +251,7 @@ export default () => (
 
 ## Tips & tools to rank your website higher on search results
 
-If your website is a blog like this website, it's highly recommend to have a RSS feed like [this one](https://smakosh.com/rss.xml) as some apps and extension do crawl the feed and will bring you more visitors that will boost your ranking on search results.
+If your website is a blog like this website, it's highly recommend to have a RSS feed like [this one](https://dev.meralus.com/rss.xml) as some apps and extension do crawl the feed and will bring you more visitors that will boost your ranking on search results.
 
 Having a sitemap helps as well and you have to submit it to your [Google Search console](https://search.google.com).
 

@@ -35,7 +35,7 @@ export const SEO = ({
 		},
 		"headline": "${description}",
 		"image": "${
-      cover ? `https://smakosh.com${cover}` : `https://smakosh.com${Thumbnail}`
+      cover ? `https://dev.meralus.com${cover}` : `https://dev.meralus.com${Thumbnail}`
     }",
 		"datePublished": "${datePublished}",
 		"dateModified": "${dateModified}",
@@ -53,7 +53,7 @@ export const SEO = ({
 			}
 		},
 		"description": "${description}",
-		"url": "${url}${location}/?ref=smakosh.com"
+		"url": "${url}${location}/?ref=dev.meralus.com"
 	}`
 
   const structuredDataOrganization = `{
@@ -98,7 +98,7 @@ export const SEO = ({
         content={cover ? `${url}${cover}` : `${url}${Thumbnail}`}
       />
 
-      <meta property="og:url" content={`${url}${location}/?ref=smakosh.com`} />
+      <meta property="og:url" content={`${url}${location}/?ref=dev.meralus.com`} />
       <meta
         property="og:type"
         content={type === 'NewsArticle' ? 'NewsArticle' : 'website'}

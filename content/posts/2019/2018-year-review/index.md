@@ -59,7 +59,7 @@ Let's get into things I built & delivered as "creating" is the second step of my
 
 - migrated & open sourced this blog from a php/mysql app to a Gatsby site
 - Contributed in building [Barmej](https://barmej.com) with my co-workers at [Obytes](https://obytes.com)
-- [Cleanify](https://smakosh.com/from-failure-to-launch-hajj-hackathon):
+- [Cleanify](https://dev.meralus.com/from-failure-to-launch-hajj-hackathon):
   - A platform for the government to keep track of trashcans to save time & fuel while collecting the trash from the filled ones.
   - React app: React, Redux, Sass
   - Node API: Express, Mongoose, Passport...

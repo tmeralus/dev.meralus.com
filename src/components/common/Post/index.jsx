@@ -16,7 +16,7 @@ export const Post = ({ html, frontmatter, timeToRead }) => {
   const { theme } = useContext(ThemeContext)
   const disqusShortName = 'https-smakosh-com'
   const disqusConfig = {
-    url: `https://smakosh.com${frontmatter.path}`,
+    url: `https://dev.meralus.com${frontmatter.path}`,
     identifier: frontmatter.id.toString(),
     title: frontmatter.title,
   }

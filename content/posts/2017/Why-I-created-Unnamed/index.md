@@ -35,6 +35,6 @@ There is also a CDN if you're not used to the node eco-system
 
 I got a positive & negative feedback on Product hunt that really made me go forward and make more useful products so expect more soon!
 
-Docs: https://unnamed.smakosh.com
+Docs: https://unnamed.dev.meralus.com
 
 On github: https://github.com/smakosh/unnamed-css-framework

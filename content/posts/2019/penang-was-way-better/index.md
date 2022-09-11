@@ -45,7 +45,7 @@ I didn't know that there are free buses with free Wi-Fi here in Malaysia until I
 
 ## Work
 
-The place I booked didn't have a desk nor any comfortable chair, so I used to work from my bed or at the kitchen, often times I visited [@Cat penang](https://acatpenang.com/?ref=smakosh.com) co-working space which was the affordable one and the nearest, there was a React/Ruby event there and I requested to give a talk about building dynamic/static apps using Gatsby which they accepted and loved.
+The place I booked didn't have a desk nor any comfortable chair, so I used to work from my bed or at the kitchen, often times I visited [@Cat penang](https://acatpenang.com/?ref=dev.meralus.com) co-working space which was the affordable one and the nearest, there was a React/Ruby event there and I requested to give a talk about building dynamic/static apps using Gatsby which they accepted and loved.
 
 ## Tourism
 

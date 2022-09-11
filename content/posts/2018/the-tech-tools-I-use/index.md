@@ -23,7 +23,7 @@ A list of tools I use whether for:
 
 - Adobe Illustrator for logo, icon and illustration design
 - Adobe XD for designing user interfaces & wireframes
-- [Photopea](https://www.photopea.com/?ref=smakosh.com) for editing pictures & memes
+- [Photopea](https://www.photopea.com/?ref=dev.meralus.com) for editing pictures & memes
 - Final cut pro for editing videos
 - Dribbble/Behance for inspiration and work showcase.
 
@@ -53,7 +53,7 @@ But if I'm working on a landing page, documentation website, blog or even a larg
 
 > I Have used Gatsby, Jekyll and Pelican before but prefer Next.js
 
-For CSS, I’m cool to use what ever tech available out there that makes my task done quickly & well, I have personally used Bootstrap 3 & 4, Bulma, Lostgrid, Materialize, Skeleton, Tailwind CSS, Tachyons & made my own micro CSS framework called [Unnamed](https://unnamed.smakosh.com/) that has over 200 stars on GitHub. I also was heavily using CSS in JS via CSS modules, Styled-components, emotion and others.
+For CSS, I’m cool to use what ever tech available out there that makes my task done quickly & well, I have personally used Bootstrap 3 & 4, Bulma, Lostgrid, Materialize, Skeleton, Tailwind CSS, Tachyons & made my own micro CSS framework called [Unnamed](https://unnamed.dev.meralus.com/) that has over 200 stars on GitHub. I also was heavily using CSS in JS via CSS modules, Styled-components, emotion and others.
 
 If I had to pick, I would prefer coding with vanilla CSS or Tailwind CSS at this point.
 
@@ -113,8 +113,8 @@ For native apps, I use React native to build mobile apps (Ios & Android). I also
 
 ## Issue, expenses/income tracking and project management
 
-- [Notion](https://notion.so/?utm_source=smakosh.com) - for tracking personal expenses/income, todos on different projects I'm working on, draft articles and more.
-- [Linear](https://linear.app/?utm_source=smakosh.com) - for tracking issues on Personal projects
+- [Notion](https://notion.so/?utm_source=dev.meralus.com) - for tracking personal expenses/income, todos on different projects I'm working on, draft articles and more.
+- [Linear](https://linear.app/?utm_source=dev.meralus.com) - for tracking issues on Personal projects
 
 ## Bank
 

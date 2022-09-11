@@ -54,7 +54,7 @@ I still remember most of the teachers laughing at me when ever I publicly stated
 
 To be continued...
 
-you can view all my works on my website http://smakosh.com & more down bellow:
+you can view all my works on my website http://dev.meralus.com & more down bellow:
 
 - Behance: https://www.behance.net/ismail16sm9991
 - GitHub: https://github.com/smakosh

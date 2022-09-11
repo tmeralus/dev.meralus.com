@@ -1,8 +1,8 @@
 module.exports = {
   defaultTitle: 'Smakosh',
-  logo: 'https://smakosh.com/favicon/logo-48.png',
+  logo: 'https://dev.meralus.com/favicon/logo-48.png',
   author: 'Ismail Ghallou (Smakosh)',
-  url: 'https://smakosh.com',
+  url: 'https://dev.meralus.com',
   legalName: 'Ismail Ghallou',
   defaultDescription:
     "I'm Ismail Ghallou aka Smakosh, a self-taught Graphic, UI/UX Designer and full stack developer, interested in the web, neural networks & tech in general.",

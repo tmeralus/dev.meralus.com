@@ -16,9 +16,9 @@ popular: false
 
 ![Working remotely](working-remotely.jpg 'Follow me on Instagram to see more : https://www.instagram.com/smakosh19')
 
-Remember the last time I shared with you [my story when I declined the job offer as a front end developer](https://smakosh.com/getting-my-first-job-offer) then [won the first prize at a hackathon](https://smakosh.com/first-time-first-prize) which was hilarious because I got the same amount of money they offered me in 36 hours instead of 30 days & 8 hours a day of work?
+Remember the last time I shared with you [my story when I declined the job offer as a front end developer](https://dev.meralus.com/getting-my-first-job-offer) then [won the first prize at a hackathon](https://dev.meralus.com/first-time-first-prize) which was hilarious because I got the same amount of money they offered me in 36 hours instead of 30 days & 8 hours a day of work?
 
-Well after the event, I headed back home and the next morning I woke up to an email from a great CEO who offered me a job as a front end engineer at [Obytes](https://obytes.com/?ref=smakosh.com) which I accepted due to many aspects: (keep in mind these are pre-experience aspects)
+Well after the event, I headed back home and the next morning I woke up to an email from a great CEO who offered me a job as a front end engineer at [Obytes](https://obytes.com/?ref=dev.meralus.com) which I accepted due to many aspects: (keep in mind these are pre-experience aspects)
 
 - I wanted to experience remote work.
 - Some amazing products they built like Paribus that got \$2.2M investments (which got recently acquired by Capital one).
@@ -27,17 +27,17 @@ Well after the event, I headed back home and the next morning I woke up to an em
 
 When I started my remote job, I was only coding user interfaces with plain html, sass & vanilla js, which we call “slicing the UI” as I was still learning React/react-router-dom & redux, also I was working on side projects during my free time such as:
 
-- [Unnamed](https://unnamed.smakosh.com) (css framework) | Open source
+- [Unnamed](https://unnamed.dev.meralus.com) (css framework) | Open source
 - Free-videodownload (PWA & Native app)
-- [Tomorrow Todolist](https://firebaseapp.smakosh.com) (PWA) | Open source
+- [Tomorrow Todolist](https://firebaseapp.dev.meralus.com) (PWA) | Open source
 
-After I got back from [my trip to Istanbul](https://smakosh.com/istanbul-trip), I received an email that I should contribute in the react app as well or they may take serious actions, if it wasn’t my co-worker [Ismail Mechbal](https://www.ismailmechbal.com/?ref=smakosh.com) who taught me how to act in that situation, my whole career wouldn’t have gone this far. So I took full responsibility and convinced the team that I will start contributing.
+After I got back from [my trip to Istanbul](https://dev.meralus.com/istanbul-trip), I received an email that I should contribute in the react app as well or they may take serious actions, if it wasn’t my co-worker [Ismail Mechbal](https://www.ismailmechbal.com/?ref=dev.meralus.com) who taught me how to act in that situation, my whole career wouldn’t have gone this far. So I took full responsibility and convinced the team that I will start contributing.
 
-Really thanks to my two team mates [Saad](https://saadaouad.net/?ref=smakosh.com) and [Abumalick](https://twitter.com/abumalick0) who supported me through out that period of 3 months while contributing to the react app, as sometimes I get tasks related to landing pages built with static sites generators such as Jekyll, I spent some time looking up if there is any SSG based on node js instead of ruby, then I discovered Gatsby js.
+Really thanks to my two team mates [Saad](https://saadaouad.net/?ref=dev.meralus.com) and [Abumalick](https://twitter.com/abumalick0) who supported me through out that period of 3 months while contributing to the react app, as sometimes I get tasks related to landing pages built with static sites generators such as Jekyll, I spent some time looking up if there is any SSG based on node js instead of ruby, then I discovered Gatsby js.
 
 While I was also learning Gatsby as I find it better than Jekyll & Pelican as I tried them all. I built some static sites with it.
 
-- [My personal blog](https://smakosh.com) | Open source
+- [My personal blog](https://dev.meralus.com) | Open source
 - [SharkCloud](https://staging.sharkcdn.net) static
 - [Couscous.bot](https://couscous.bot) landing page
 
